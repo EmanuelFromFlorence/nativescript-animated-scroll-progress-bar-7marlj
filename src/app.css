@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.m-icon-round {
+    font-family: "Material Icons", "MaterialIconsRound-Regular";
+    font-weight: 100;
+    font-size: 36;
+}
